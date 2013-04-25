@@ -2,7 +2,7 @@ Displays the local weather information. Mostly I'm playing with Rust.
 
 ## Build
 
-You need to have [Rust](http://www.rust-lang.org/), then just `rustc rweather.rs` to build it.
+You need to have [Rust](http://www.rust-lang.org/) (incoming branch), then just `rustc rweather.rs` to build it.
 
 ## Usage
 
